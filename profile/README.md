@@ -16,10 +16,11 @@
 ## Who are we?
 
 ```
-MiceX.pro is a company that provides high-quality cybersecurity and computer science courses for all skill levels.
-We believe in the value of hard work and offer numerous cybersecurity and programming challenges for practice and problem-solving.
-In addition, we are constantly working to improve and expand our offerings, including courses, challenges, cheatsheets, an IDE 
-and more.
+Welcome to [MiceX.Pro](https://www.micex.pro), the top resource for top-notch computer science and cybersecurity courses created for students of all ability levels. Our knowledgeable instructors provide top-notch instruction with both practical and theoretical challenges, as well as thorough walkthroughs for labs and challenges. This allows students to learn at their own pace. 
+
+At MiceX.Pro, we're dedicated to ongoing development and work relentlessly to improve the platform's interface and user experience. Also, our platform has documentation pages that deconstruct programming language syntaxes so that anyone may understand them. 
+
+Get in touch with us by following us on [Twitter](https://twitter.com/Micex_pro), [Instagram](https://www.instagram.com/micex.pro), [YouTube](https://www.youtube.com/@MiceXPro), and our blog. Moreover, you can make a donation through our [BuymeACoffee](https://www.buymeacoffee.com/micex) website if you'd want to support our project. Count on MiceX.Pro to give you all the tools you need to improve your cybersecurity and computer science.
 ```
 
 ## Where to find us
