@@ -16,7 +16,9 @@
 ## Who are we?
 
 ```
-Welcome to MiceX.Pro, the top resource for top-notch computer science and cybersecurity courses created for students of all ability levels. 
+Welcome to MiceX.Pro, 
+
+the top resource for top-notch computer science and cybersecurity courses created for students of all ability levels. 
 Our knowledgeable instructors provide top-notch instruction with both practical and theoretical challenges, 
 as well as thorough walkthroughs for labs and challenges. This allows students to learn at their own pace. 
 
