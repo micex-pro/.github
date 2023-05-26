@@ -32,7 +32,7 @@ Count on MiceX.Pro to give you all the tools you need to improve your cybersecur
 ```
 
 ## Where to find us
-<p align="left"> <a href="https://twitter.com/micex_pro" target="blank"><img src="https://img.shields.io/twitter/follow/micex_pro?logo=twitter&style=for-the-badge" alt="micex.pro" /></a> <br>
+<p align="left"> <a href="https://twitter.com/micexpro" target="blank"><img src="https://img.shields.io/twitter/follow/micex_pro?logo=twitter&style=for-the-badge" alt="micex.pro" /></a> <br>
 <a href="https://instagram.com/micex.pro" target="blank"><img src="https://img.shields.io/badge/-Follow%20%40micex.pro-ff69b4?logo=instagram&style=for-the-badge&logoColor=white" alt="micex.pro" /></a> </p>
 [YouTube](https://www.youtube.com/@MiceXPro)
 
@@ -52,4 +52,4 @@ We work hard on the platform every day and would appreciate any help. All donati
 <p><a target="_blank" href="https://www.buymeacoffee.com/micex"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="micex" /></a></p><br><br>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=micex-pro&label=Profile%20views&color=0e75b6&style=flat" alt="MiceX" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=micex-pro&label=Profile%20views&color=0e75b6&style=flat" alt="MiceX.Pro" /> </p>
